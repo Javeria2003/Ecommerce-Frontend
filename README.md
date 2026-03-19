@@ -4,7 +4,7 @@
 ![Vite](https://img.shields.io/badge/Vite-8.0.0-lightgrey?logo=vite)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
-💻 Live Demo: (https://69bbdb0257b427b228ab5e08--boisterous-gumdrop-4d317b.netlify.app/)
+💻 Live Demo: [click here](https://69bbdb0257b427b228ab5e08--boisterous-gumdrop-4d317b.netlify.app/)
 
 ---
 
