@@ -55,3 +55,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/Javeria2003/Ecommerce-Frontend.git
 cd Ecommerce-Frontend
+## 👩‍💻 Author
+
+**Javeria Aslahuddin**  
+- GitHub: [@Javeria2003](https://github.com/Javeria2003)  
+- Email: javeriajolly03@gmail.com  
+
+## 📄 License
+
+This project is for educational purposes / team submission.
