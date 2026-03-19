@@ -1,16 +1,51 @@
-# React + Vite
+# E-commerce Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **fully responsive E-commerce frontend** built with **React, Vite, and CSS**, designed to match Figma mock pages.  
+Users can browse products, view details, add items to cart, adjust quantities, and see total prices. Works seamlessly on **PC and mobile**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 Features
 
-## React Compiler
+- Home page with **responsive product grid**  
+- Product Detail page with **image, description, price, and Add to Cart button**  
+- Cart page with **add, subtract, remove items** and **total price calculation**  
+- Responsive **navbar** with cart item count  
+- Fully **mobile-friendly layout**  
+- Smooth hover and tap effects on cards and buttons  
+- Error handling for product loading  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18  
+- React Router DOM  
+- Vite  
+- CSS / Flexbox & Grid  
+- JavaScript (ES6)  
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots in `public/images/` and update paths below)*
+
+Home Page:  
+![Home Page](public/images/home-screenshot.png)  
+
+Product Detail Page:  
+![Product Detail](public/images/product-detail-screenshot.png)  
+
+Cart Page:  
+![Cart Page](public/images/cart-screenshot.png)  
+
+---
+
+## 🚀 Installation / Running Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Javeria2003/Ecommerce-Frontend.git
+cd Ecommerce-Frontend
