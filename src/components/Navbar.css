@@ -1,0 +1,38 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  border-bottom: 1px solid #eee;
+  background: #fff;
+}
+
+.logo {
+  color: #ff6a00;
+}
+
+.nav-center {
+  display: flex;
+  gap: 10px;
+}
+
+.search-bar {
+  width: 300px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.search-btn {
+  background: #ff6a00;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.nav-right span {
+  margin-left: 20px;
+  cursor: pointer;
+}
