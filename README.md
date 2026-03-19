@@ -32,15 +32,20 @@ Users can browse products, view details, add items to cart, adjust quantities, a
 *(Add screenshots in `public/images/` and update paths below)*
 
 Home Page:  
-![Home Page](public/images/home-screenshot.png)  
+![Home Page](<img width="1896" height="885" alt="home-screenshot" src="https://github.com/user-attachments/assets/cedf7d05-eb61-4b4b-8b93-ed71f422e1a7" />
+)  
 
 Product Detail Page:  
-![Product Detail](public/images/product-detail-screenshot.png)  
+![Product Detail](<img width="1878" height="630" alt="productdetail-screenshot" src="https://github.com/user-attachments/assets/234ca79f-1cd1-4e12-bfa2-38551bf99c28" />
+)  
 
 Cart Page:  
-![Cart Page](public/images/cart-screenshot.png)  
+![Cart Page](<img width="1912" height="627" alt="cart-screenshot" src="https://github.com/user-attachments/assets/2c84b98f-0858-4895-a752-767dcc28b689" />
+)  
 
----
+## MarkDown
+
+💻 Live Demo: [Click here](https://69bbdb0257b427b228ab5e08--boisterous-gumdrop-4d317b.netlify.app/)
 
 ## 🚀 Installation / Running Locally
 
