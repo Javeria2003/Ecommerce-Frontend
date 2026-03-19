@@ -8,18 +8,18 @@
 
 ---
 
-A **fully responsive E-commerce frontend** built with **React, Vite, and CSS**, designed to match Figma mock pages.  
+A fully responsive E-commerce frontend built with **React, Vite, and CSS**, designed to match Figma mock pages.  
 Users can browse products, view details, add items to cart, adjust quantities, and see total prices. Works seamlessly on **PC and mobile**.
 
 ---
 
 ## 🌟 Features
 
-- Home page with **responsive product grid**  
-- Product Detail page with **image, description, price, and Add to Cart button**  
-- Cart page with **add, subtract, remove items** and **total price calculation**  
-- Responsive **navbar** with cart item count  
-- Fully **mobile-friendly layout**  
+- Home page with responsive product grid  
+- Product Detail page with image, description, price, and Add to Cart button  
+- Cart page with add, subtract, remove items and total price calculation  
+- Responsive navbar with cart item count  
+- Fully mobile-friendly layout  
 - Smooth hover and tap effects on cards and buttons  
 - Error handling for product loading  
 
@@ -37,26 +37,21 @@ Users can browse products, view details, add items to cart, adjust quantities, a
 
 ## 📸 Screenshots
 
-*(Replace the placeholders with actual screenshots from `public/images/`)*
-
 Home Page:  
-![Home](<img width="1896" height="885" alt="home-screenshot" src="https://github.com/user-attachments/assets/05990a8b-2445-4c47-a4c0-a9f5b942da52" />
-)  
+![Home](public/images/home-screenshot.png)  
 
 Product Detail Page:  
-![Product Detail](<img width="1878" height="630" alt="productdetail-screenshot" src="https://github.com/user-attachments/assets/e1d7ffb2-50e1-4037-a21c-b601da716317" />
-)  
+![Product Detail](public/images/productdetail-screenshot.png)  
 
 Cart Page:  
-![Cart](<img width="1912" height="627" alt="cart-screenshot" src="https://github.com/user-attachments/assets/f745a8ed-131f-4f75-83de-55caaa7997cc" />
-)  
+![Cart](public/images/cart-screenshot.png)  
 
 ---
 
 ## 🚀 Installation / Running Locally
 
-1. Clone the repository:
+Clone the repository:
 
-```bash id="d1nzbs"
+```bash
 git clone https://github.com/Javeria2003/Ecommerce-Frontend.git
 cd Ecommerce-Frontend
